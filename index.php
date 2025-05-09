@@ -1,6 +1,9 @@
 <?php
-    echo "Hello onlyRaam";
-    echo "Hello World";
-    echo "Hello World 2";
-    echo "Hello World 3";
+echo "Hello onlyRaam";
+echo "<br>";
+print "Aku Raam";
+echo "<br>";
+print_r("Hello Raam");
+echo "<br>";
+var_dump("Hello Raam");
 ?>
